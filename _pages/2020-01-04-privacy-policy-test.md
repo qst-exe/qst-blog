@@ -1,5 +1,5 @@
 ---
-author: admin
+author: qst
 title: プライバシーポリシー
 slug: privacy-policy-test
 id: 3
