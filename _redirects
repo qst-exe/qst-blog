@@ -1,1 +1,2 @@
 /:category/:id  /post-:id  301!
+/about /profile 301!
