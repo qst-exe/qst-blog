@@ -1,1 +1,1 @@
-/:category/:id  /posts-:id  301!
+/:category/:id  /post-:id  301!
