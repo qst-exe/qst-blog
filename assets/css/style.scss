@@ -24,9 +24,16 @@
   }
 }
 
+article {
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+  }
+}
+
 h1 {
   &.post-title {
     font-size: 1.75rem;
+    letter-spacing: 0;
   }
 }
 
@@ -38,6 +45,7 @@ h1 {
   h2 {
     margin-top: 30px;
     font-size: 1.5rem;
+    border-bottom: 1px solid #607d8b;
   }
 
   h3 {
