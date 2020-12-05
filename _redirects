@@ -1,1 +1,6 @@
-/:category/:id  /post-:id  301!
+/engineer/:id  /post-:id  301!
+/freelance/:id  /post-:id  301!
+/hedgehog/:id  /post-:id  301!
+/hiramasa/:id  /post-:id  301!
+/programming/:id  /post-:id  301!
+/youtuber/:id  /post-:id  301!
