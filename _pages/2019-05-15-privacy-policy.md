@@ -1,5 +1,5 @@
 ---
-author: kusutan
+author: qst_exe
 title: プライバシーポリシー
 slug: privacy-policy
 id: 7
