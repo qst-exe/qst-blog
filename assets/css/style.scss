@@ -55,6 +55,33 @@ h1 {
     font-size: 1.2rem;
   }
 
+  .flex-evenly {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+
+    justify-content: space-evenly;
+
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+
+
+    .post-741-app {
+      width: 22%;
+
+      margin-bottom: 15px;
+    }
+
+    @media screen and (max-width: 768px){
+      flex-wrap: wrap;
+
+      .post-741-app {
+        width: 45%;
+      }
+    }
+  }
+
   #share-bar {
     margin-top: 30px;
   }
