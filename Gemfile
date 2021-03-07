@@ -32,3 +32,5 @@ gem 'jekyll-seo'
 gem 'jekyll-sitemap'
 gem 'jekyll-twitter-plugin'
 gem 'jekyll-youtube'
+
+gem "webrick", "~> 1.7"
