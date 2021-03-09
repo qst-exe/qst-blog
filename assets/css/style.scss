@@ -6,6 +6,12 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
+body {
+  font-family: "Noto Sans JP", serif;
+  -webkit-text-size-adjust: 100%;
+  position: relative;
+}
+
 .site-header {
   @media screen and (max-width:480px) {
     line-height: 40px;
