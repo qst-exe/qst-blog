@@ -4,15 +4,20 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## 概要
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+鹿児島大学理学部を卒業後に、地元のITベンチャー企業でSNSやソーシャルゲームの開発及び開発体制の整備を行ったのち、フリーランスとして開業する。
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+現在は鹿児島でシステム開発をしながら、専門学校での非常勤講師としてのプログラミング教育やエンジニアコミュニティ「鹿児島.mk」「ヒラマサ」 でのコミュニティ活動にも取り組んでいる。
 
+## やっていること
 
-[jekyll-organization]: https://github.com/jekyll
+* フリーランスエンジニア（案件は[こちら](https://twitter.com/qst_exe){:target="_blank"}で随時受付中です。[スキルセット](https://github.com/ntask19/Curriculum-Vitae-template){:target="_blank"}）
+  * スタートアップを中心に準委任契約での新規サービス開発
+  * 中小企業向けに請負契約での新規サービス開発
+* [YouTubeでの動画配信（ぜひご視聴ください）](https://www.youtube.com/channel/UCuYiSs3MVn3BWtHPsGQ8vIA?sub_confirmation=1){:target="_blank"}
+* エンジニアコミュニティ「[鹿児島.mk](https://kagoshima-mk.connpass.com/){:target="_blank"}」や「ヒラマサ」の運営
+* 専門学校での非常勤講師
+* [MENTA](https://menta.work/plan/1092){:target="_blank"}や[CodeBoy](https://codeboy.jp/home/teacher_detail/K6Tuys28SWfIg0aXtgsTdoYyEUK2){:target="_blank"}でのプログラミングサポート
+
+鹿児島のアプリ屋さんは、amazon.co.jpを宣伝しリンクすることによってサイトが紹介料を獲得できる手段を提供することを目的に設定されたアフィリエイト宣伝プログラムである、 Amazonアソシエイト・プログラムの参加者です。
