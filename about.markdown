@@ -14,7 +14,7 @@ permalink: /about/
 
 * フリーランスエンジニア（案件は[こちら](https://twitter.com/qst_exe){:target="_blank"}で随時受付中です。[スキルセット](https://github.com/ntask19/Curriculum-Vitae-template){:target="_blank"}）
   * スタートアップを中心に準委任契約での新規サービス開発
-  * 中小企業向けに請負契約での新規サービス開発
+  * 創業初期の事業者向けに請負契約での新規サービス開発
 * [YouTubeでの動画配信（ぜひご視聴ください）](https://www.youtube.com/channel/UCuYiSs3MVn3BWtHPsGQ8vIA?sub_confirmation=1){:target="_blank"}
 * エンジニアコミュニティ「[鹿児島.mk](https://kagoshima-mk.connpass.com/){:target="_blank"}」や「ヒラマサ」の運営
 * 専門学校での非常勤講師
