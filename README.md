@@ -2,7 +2,7 @@
 
 ## ブログURL
 
-https://kusutan.com/
+https://blog.hhg-exe.jp/
 
 ## 執筆中にプレビュー
 
