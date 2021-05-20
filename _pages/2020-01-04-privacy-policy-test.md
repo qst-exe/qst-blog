@@ -10,7 +10,7 @@ comments: false
 
 ## 私たちについて
 
-私たちのサイトアドレスは https://kusutan.com です。
+私たちのサイトアドレスは https://blog.hhg-exe.jp です。
 
 ## このサイトが収集する個人データと収集の理由
 
