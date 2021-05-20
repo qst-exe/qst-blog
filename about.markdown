@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About くすたん
+title: About author
 permalink: /about/
 ---
 
@@ -18,6 +18,6 @@ permalink: /about/
 * [YouTube](https://www.youtube.com/channel/UCuYiSs3MVn3BWtHPsGQ8vIA?sub_confirmation=1){:target="_blank"} での動画配信
 * エンジニアコミュニティ「[鹿児島.mk](https://kagoshima-mk.connpass.com/){:target="_blank"}」や「ヒラマサ」の運営
 * 専門学校での非常勤講師
-* [MENTA](https://menta.work/plan/1092){:target="_blank"}や[CodeBoy](https://codeboy.jp/home/teacher_detail/K6Tuys28SWfIg0aXtgsTdoYyEUK2){:target="_blank"}でのプログラミングサポート
+* [MENTA](https://menta.work/plan/1092){:target="_blank"}や[CodeBoy](https://codeboy.jp/teacher_detail/K6Tuys28SWfIg0aXtgsTdoYyEUK2){:target="_blank"}でのプログラミングサポート
 
 鹿児島のアプリ屋さんは、amazon.co.jpを宣伝しリンクすることによってサイトが紹介料を獲得できる手段を提供することを目的に設定されたアフィリエイト宣伝プログラムである、 Amazonアソシエイト・プログラムの参加者です。
