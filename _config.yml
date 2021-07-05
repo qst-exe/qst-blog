@@ -21,7 +21,7 @@
 title: 鹿児島のアプリ屋さん
 email: kusutan2019@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  鹿児島でフリーランスエンジニアとして、スマホアプリやWebシステムの開発をしてる人のチラ裏です。
+  鹿児島でフリーランスエンジニアとして、モバイルアプリやWebシステムの開発をしています。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.hhg-exe.jp" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: qst_exe

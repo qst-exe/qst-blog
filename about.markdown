@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About author
+description: 鹿児島でフリーランスエンジニアをしている筆者についてです。
 permalink: /about/
 ---
 
@@ -21,3 +22,6 @@ permalink: /about/
 * [MENTA](https://menta.work/plan/1092){:target="_blank"}や[CodeBoy](https://codeboy.jp/teacher_detail/K6Tuys28SWfIg0aXtgsTdoYyEUK2){:target="_blank"}でのプログラミングサポート
 
 鹿児島のアプリ屋さんは、amazon.co.jpを宣伝しリンクすることによってサイトが紹介料を獲得できる手段を提供することを目的に設定されたアフィリエイト宣伝プログラムである、 Amazonアソシエイト・プログラムの参加者です。
+
+何かありましたら、[こちら](https://form.run/@hhg-exe-contact){:target="_blank"}からお気軽にお問い合わせください。  
+[https://form.run/@hhg-exe-contact](https://form.run/@hhg-exe-contact){:target="_blank"}
