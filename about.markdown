@@ -25,3 +25,6 @@ permalink: /about/
 
 何かありましたら、[こちら](https://form.run/@hhg-exe-contact){:target="_blank"}からお気軽にお問い合わせください。  
 [https://form.run/@hhg-exe-contact](https://form.run/@hhg-exe-contact){:target="_blank"}
+
+LINEからのお問い合わせはこちら  
+<a href="https://lin.ee/jWUcXkz"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png" alt="友だち追加" height="46" border="0"></a><br>
