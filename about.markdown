@@ -5,6 +5,11 @@ description: 鹿児島でフリーランスエンジニアをしている筆者�
 permalink: /about/
 ---
 
+<img src="/assets/images/qst-profile-icon.jpg" alt="くすたん" width="150">
+
+[Twitter](https://twitter.com/qst_exe){:target="_blank"}  
+[GitHub](https://github.com/qst-exe){:target="_blank"}
+
 ## 概要
 
 鹿児島大学理学部を卒業後に、鹿児島のIT企業でSNSやソーシャルゲームの新規事業開発を行ったのち、フリーランスとして開業する。
