@@ -26,9 +26,15 @@ permalink: /about/
 * 専門学校での非常勤講師
 * [MENTA](https://menta.work/plan/1092){:target="_blank"}や[CodeBoy](https://codeboy.jp/teacher_detail/K6Tuys28SWfIg0aXtgsTdoYyEUK2){:target="_blank"}でのプログラミングサポート
 
-鹿児島のアプリ屋さんは、amazon.co.jpを宣伝しリンクすることによってサイトが紹介料を獲得できる手段を提供することを目的に設定されたアフィリエイト宣伝プログラムである、 Amazonアソシエイト・プログラムの参加者です。
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://menta.work/plan/1092" target="_blank" data-iframely-url="//cdn.iframe.ly/TCN031K?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
-何かありましたら、こちらからお気軽にお問い合わせください。  
+<br>
+
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://codeboy.jp//teacher_detail/K6Tuys28SWfIg0aXtgsTdoYyEUK2" data-iframely-url="//cdn.iframe.ly/SpQBc6M"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+
+## お問い合わせ
+
+こちらからお気軽にお問い合わせください。  
 
 <div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 27.668%; padding-top: 120px;"><a 
 href="https://form.run/@hhg-exe-contact" target="_blank" data-iframely-url="//cdn.iframe.ly/uiKZ6ow"></a></div></div><script async 
@@ -36,3 +42,5 @@ src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 LINEからのお問い合わせはこちら  
 <a href="https://lin.ee/jWUcXkz"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png" alt="友だち追加" height="46" border="0"></a><br>
+
+鹿児島のアプリ屋さんは、amazon.co.jpを宣伝しリンクすることによってサイトが紹介料を獲得できる手段を提供することを目的に設定されたアフィリエイト宣伝プログラムである、 Amazonアソシエイト・プログラムの参加者です。
