@@ -36,6 +36,11 @@ plugins:
   - jekyll-youtube
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-toc
+
+toc:
+  min_level: 1
+  max_level: 6
 
 minima:
   date_format: "%Y-%m-%d"
