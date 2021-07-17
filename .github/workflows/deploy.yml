@@ -1,0 +1,27 @@
+on:
+  push:
+    branches:
+      - main
+jobs:
+  gh-pages-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Ruby
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: 2.7
+      - name: setup Node
+        uses: actions/setup-node@v1
+        with:
+          node-version: '12'
+      - name: setup Firebase
+        run: npm install -g firebase-tools
+      - name: bundle install
+        run: |
+          bundle config set path 'vendor/bundle'
+          bundle install
+      - name: Jekyll Build
+        run: bundle exec jekyll build
+      - name: deploy to Firebase Hosting
+        run: firebase deploy --only hosting --token=${{ secrets.FIREBASE_TOKEN }}
