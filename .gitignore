@@ -4,3 +4,5 @@ _site
 .jekyll-metadata
 vendor
 .tweet-cache
+firebase-debug.log
+/.firebase/
