@@ -11,12 +11,17 @@
     {%- include google-analytics.html -%}
   {%- endif -%}
 
-  {%- include custom-head.html -%}
+  {% if page.url != "/" %}
+    {%- include custom-head.html -%}
+  {% endif %}
   {%- include twitter-card.html -%}
 
   {% if site.tags != "" %}
     {% include collecttags.html %}
   {% endif %}
+
 </head>
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v11.0&appId=1079984102011699&autoLogAppEvents=1" nonce="QCk071C4"></script>
+{% if page.url != "/ %}
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v11.0&appId=1079984102011699&autoLogAppEvents=1" nonce="QCk071C4"></script>
+{% endif %}
