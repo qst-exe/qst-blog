@@ -4,5 +4,6 @@
 /hiramasa/:id  /post-:id  301!
 /programming/:id  /post-:id  301!
 /youtuber/:id  /post-:id  301!
+/page001/ /how-to-learn-new-programing-language
 https://kusutan.com/ https://blog.hhg-exe.jp/ 301!
 https://kusutan.com/:id https://blog.hhg-exe.jp/:id 301!
