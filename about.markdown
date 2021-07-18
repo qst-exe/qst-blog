@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About author
+title: 管理人
 description: 鹿児島でフリーランスエンジニアをしている筆者についてです。
 permalink: /about/
 ---
