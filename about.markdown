@@ -43,4 +43,4 @@ src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 LINEからのお問い合わせはこちら  
 <a href="https://lin.ee/jWUcXkz"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png" alt="友だち追加" height="46" border="0"></a><br>
 
-鹿児島のアプリ屋さんは、amazon.co.jpを宣伝しリンクすることによってサイトが紹介料を獲得できる手段を提供することを目的に設定されたアフィリエイト宣伝プログラムである、 Amazonアソシエイト・プログラムの参加者です。
+鹿児島のアプリ製作所は、amazon.co.jpを宣伝しリンクすることによってサイトが紹介料を獲得できる手段を提供することを目的に設定されたアフィリエイト宣伝プログラムである、 Amazonアソシエイト・プログラムの参加者です。
